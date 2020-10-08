@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from '../../Components/Header/index';
-import Footer from '../../Components/Footer/index';
+import Header from '../../components/Header/index';
+import Footer from '../../components/Footer/index';
 
 function Login() {
   return (
     <div >
-      <Header/>
+        <Header description="Conheça nossa coletânea"/>
       <h1>Login</h1>
       <Footer/>
     </div>

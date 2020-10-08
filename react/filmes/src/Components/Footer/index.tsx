@@ -1,7 +1,7 @@
 import React from 'react';
-import logonegativo from '../../assets/images/logonegativo.png';
+import logonegativo from '../../assets/image/logonegativo.png';
 import './style.css';
-import '../../assets/style/global.css';
+import '../../assets/global.css';
 
 function Footer(){
     return(

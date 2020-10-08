@@ -1,13 +1,19 @@
 import React from 'react';
-import Header from '../../Components/Header/index';
-import Footer from '../../Components/Footer/index';
+import Header from '../../components/Header/index';
+import Footer from '../../components/Footer/index';
 
 function Home() {
   return (
     <div>
-      <Header/>
+      <Header description="Conheça nossa coletânea"/>
+      <div className="centro">
+        <div >
+
+        </div>
+
+      </div>
       <h1>Home</h1>
-      <Footer/>
+    
     </div>
   );
 }
